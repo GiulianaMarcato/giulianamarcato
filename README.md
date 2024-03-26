@@ -1,8 +1,9 @@
 ## Giuliana Marcato 👋
 
 ### Who am I?
+👩‍💻 Graduating Computer Engineering - Cruzeiro do Sul.
 
-👩‍💻 Student of Data Scientist.
+👩‍💻 Student of Data Scientist - Flai.
 
 👩‍🎓 Bachelor of marketing - UNIP.
 
@@ -21,6 +22,11 @@
 💻 Excel.
 
 💻 Office Pack.
+
+✨ English: Intermediary
+
+✨ Spanish: Fluent
+
 
 
 ### Find me around the world 🌎
