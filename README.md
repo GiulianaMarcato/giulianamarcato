@@ -3,7 +3,7 @@
 ### Who am I?
 👩‍💻 Graduating Computer Engineering - Cruzeiro do Sul.
 
-👩‍💻 Student of Data Scientist - Flai.
+👩‍💻 Data Scientist - Flai.
 
 👩‍🎓 Bachelor of marketing - UNIP.
 
