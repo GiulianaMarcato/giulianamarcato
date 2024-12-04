@@ -1,7 +1,7 @@
 ## Giuliana Marcato 👋
 
 ### Who am I?
-👩‍💻 Graduating Computer Engineering - Cruzeiro do Sul.
+👩‍💻 Graduating Software Engineering - Cruzeiro do Sul (EAD).
 
 👩‍💻 Data Scientist - Flai.
 
